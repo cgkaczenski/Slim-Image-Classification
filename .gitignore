@@ -1,0 +1,7 @@
+checkpoints/*
+.ipynb_checkpoints
+MNIST_data/*
+*.pickle
+__pycache__*
+.pyc
+*.tar.gz
